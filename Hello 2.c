@@ -1,14 +1,4 @@
 //program to display Units Offered In this Semester
-
-/*
-(Multiline Comment)
-Author:Brian Ndung'u Oyeka
-Registration number:BCS-05-0544/2026
-Description:Unit offered in this Semester program
-Date:10/09/2026
-Version 1
-*/
-
 //preprocessor directive
 #include <stdio.h> // printf()
 #include <math.h> tan()
